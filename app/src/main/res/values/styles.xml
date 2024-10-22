@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema Aplikasi Utama -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Warna utama aplikasi -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Warna latar -->
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <!-- Warna teks -->
+        <item name="android:textColorPrimary">@color/colorTextPrimary</item>
+        <item name="android:textColorSecondary">@color/colorTextSecondary</item>
+        <!-- Tombol -->
+        <item name="android:buttonStyle">@style/ButtonStyle</item>
+    </style>
+    <!-- Gaya Tombol -->
+    <style name="ButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@color/colorButton</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+        <item name="android:padding">12dp</item>
+    </style>
+</resources>

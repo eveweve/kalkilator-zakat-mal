@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna utama -->
+    <color name="colorPrimary">#4CAF50</color> <!-- Hijau Lembut -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Hijau Gelap -->
+    <color name="colorAccent">#2196F3</color> <!-- Biru Muda -->
+
+    <!-- Warna latar dan teks -->
+    <color name="colorBackground">#FAFAFA</color> <!-- Krem Muda -->
+    <color name="colorTextPrimary">#212121</color> <!-- Hitam untuk teks utama -->
+    <color name="colorTextSecondary">#757575</color> <!-- Abu-Abu Gelap untuk teks sekunder -->
+
+    <!-- Warna tombol -->
+    <color name="colorButton">#4CAF50</color> <!-- Hijau Lembut -->
+    <color name="colorButtonText">#FFFFFF</color> <!-- Putih -->
+
+    <!-- Warna garis dan elemen pembatas -->
+    <color name="colorDivider">#BDBDBD</color> <!-- Abu-Abu Muda untuk garis -->
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zakat Mal Calculator</string>
+    <string name="jenis_barang_0">Uang</string>
+    <string name="jenis_barang_1">Beras</string>
+    <string name="jenis_barang_2">Emas</string>
+    <string name="hitung_zakat_emas">Hitung Zakat Emas</string>
+    <string name="hitung_zakat_beras">Hitung Zakat Beras</string>
+    <string name="hitung_zakat_uang">Hitung Zakat Uang</string>
+    <string name="riwayat_zakat">Riwayat Zakat</string>
+    <string name="button_riwayat">Riwayat Zakat</string>
+</resources>
